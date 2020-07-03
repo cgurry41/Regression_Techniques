@@ -1,0 +1,27 @@
+---
+title: "HW3 Peer Assessment Gurry"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Background
+
+
+
+## Data Description
+
+
+# Question 1: 
+
+**(a) **
+
+```{r}
+
+```
+
